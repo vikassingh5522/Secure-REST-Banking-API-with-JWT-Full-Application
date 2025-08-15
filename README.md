@@ -50,6 +50,8 @@ JWT stored in localStorage for persistent sessions
 <img width="1847" height="1018" alt="image" src="https://github.com/user-attachments/assets/88b5fa55-e880-4b81-a9be-5213216a29aa" />
 <img width="869" height="935" alt="image" src="https://github.com/user-attachments/assets/9c8b4cea-137a-44ae-927d-36a06d265f07" />
 <img width="635" height="770" alt="image" src="https://github.com/user-attachments/assets/eaddc0e0-3e22-4b35-b52a-82289d2f083c" />
+<img width="675" height="833" alt="image" src="https://github.com/user-attachments/assets/0e385c0f-0649-411f-a695-6ee095896a2e" />
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/811f8f8c-270e-4745-97a5-53e9bd50c830" />
 <img width="810" height="881" alt="image" src="https://github.com/user-attachments/assets/397ec69b-c7e1-403f-bd9d-b2bd7044884e" />
 
