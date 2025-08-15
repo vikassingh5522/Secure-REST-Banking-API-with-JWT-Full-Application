@@ -245,12 +245,4 @@ Frontend runs at: **[http://localhost:5173](http://localhost:5173)** (Vite defau
 
 ---
 
-## 📜 License
-
-Educational use only – not for production without further security hardening.
-
----
-
-I can now **also embed code snippets** showing how `UserService` automatically creates accounts on registration so devs don't get the “balance is 0” bug you had earlier.
-That would make the README *self-fixing*.
 
